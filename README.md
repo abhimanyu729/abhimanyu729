@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Abhimanyu Anand
 - 👀 I’m interested in machine learning
-- 🌱 I’m currently learning about auto deep learning
+- 🌱 I’m currently learning about niches in NLP
 - 💞️ I’m looking to collaborate on nlp applications
 - 📫 How to reach me; drop a message at https://www.linkedin.com/in/abhimanyu-anand/
 
