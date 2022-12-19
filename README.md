@@ -16,7 +16,7 @@
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
 ### 😂 Random Dev Meme
-<img src= "https://discourse.aicrowd.com/uploads/default/original/2X/d/d174aa9014014107e3a4718f3d90180d9b390070.jpeg" width="2562px"/>
+<img src= "https://discourse.aicrowd.com/uploads/default/original/2X/d/d174aa9014014107e3a4718f3d90180d9b390070.jpeg" width="256px"/>
 
 ---
 [![](https://visitcount.itsvg.in/api?id=abhimanyu729&icon=0&color=0)](https://visitcount.itsvg.in)
