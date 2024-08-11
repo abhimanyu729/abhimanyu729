@@ -1,5 +1,5 @@
 # 💫 About Me:
-👋 Hi, I’m Abhimanyu Anand<br>   I am currently working on building recommendation systems<br>👀 I’m interested in interesting applications of machine learning<br>   I’m looking to collaborate on nlp applications<br>🌱 I’m currently learning about latest trends in NLP<br>📫 How to reach me; drop a message at https://www.linkedin.com/in/abhimanyu-anand/
+👋 Hi, I’m Abhimanyu Anand<br> I work on building recommendation systems and Gen AI applications <br>👀 I’m interested in real-world applications of LLMs at scale <br> I’m open to collaborating on projects focused on improving LLM reasoning <br>🌱 I’m currently learning about developing performant small language models <br>📫 How to reach me; drop a message at https://www.linkedin.com/in/abhimanyu-anand/
 
 
 ## 🌐 Socials:
